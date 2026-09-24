@@ -8,10 +8,9 @@ This application helps users manage their daily tasks by allowing them to add, c
 
 ## 🚀 Live Demo
 
-🔗 **Live Demo:**  
-https://YOUR-USERNAME.github.io/To-Do-List/
+🔗 **[View Live Demo](https://suraj-mahato9955.github.io/To-Do-List/)**
 
-> Replace `YOUR-USERNAME` with your GitHub username after deploying the project.
+Try the To-Do List application directly in your browser.
 
 ---
 
