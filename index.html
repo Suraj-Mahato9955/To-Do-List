@@ -3,10 +3,9 @@
 
 <head>
     <meta charset="UTF-8">
-
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>To-Do List</title>
+    <title>To-Do List App</title>
 
     <link rel="stylesheet" href="style.css">
 </head>
@@ -17,23 +16,27 @@
 
         <div class="todo-app">
 
+            <!-- Heading -->
             <h2>
                 To-Do List
-                <img src="images/icon.png">
+                <span class="title-icon">📝</span>
             </h2>
 
+            <!-- Input Section -->
             <div class="row">
 
                 <input
                     type="text"
                     id="input-box"
                     placeholder="Add your text"
+                    autocomplete="off"
                 >
 
-                <button onclick="addTask()">Add</button>
+                <button id="add-btn">Add</button>
 
             </div>
 
+            <!-- Task List -->
             <ul id="list-container"></ul>
 
         </div>
