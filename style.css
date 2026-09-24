@@ -1,4 +1,3 @@
-
 * {
     margin: 0;
     padding: 0;
@@ -38,13 +37,11 @@
 
 .todo-app h2 img {
     width: 30px;
-
     margin-left: 10px;
 }
 
 .row {
     display: flex;
-
     align-items: center;
 
     justify-content: space-between;
@@ -62,7 +59,6 @@ input {
     flex: 1;
 
     border: none;
-
     outline: none;
 
     background: transparent;
@@ -74,7 +70,6 @@ input {
 
 button {
     border: none;
-
     outline: none;
 
     padding: 16px 50px;
