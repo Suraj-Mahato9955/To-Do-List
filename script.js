@@ -30,11 +30,9 @@ function addTask() {
     const li = document.createElement("li");
 
 
-    // Add task text
     li.textContent = taskText;
 
 
-    // Add task to list
     listContainer.appendChild(li);
 
 
