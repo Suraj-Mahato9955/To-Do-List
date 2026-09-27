@@ -16,11 +16,9 @@ const listContainer = document.getElementById("list-container");
 
 function addTask() {
 
-    // Remove extra spaces
     const taskText = inputBox.value.trim();
 
 
-    // Check empty input
     if (taskText === "") {
 
         alert("You must write something!");
@@ -29,7 +27,6 @@ function addTask() {
     }
 
 
-    // Create new list item
     const li = document.createElement("li");
 
 
