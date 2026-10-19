@@ -230,9 +230,6 @@
     border-radius: 50%;
 }
 
-
-/* Delete Hover */
-
 #list-container li span:hover {
     background: #edeef0;
 
