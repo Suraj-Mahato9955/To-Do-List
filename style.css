@@ -132,7 +132,6 @@
 }
 
 
-/* Individual Task */
 
 #list-container li {
     list-style: none;
@@ -187,7 +186,6 @@
 }
 
 
-/* Completed Check */
 
 #list-container li.checked::before {
     content: "✓";
