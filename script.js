@@ -36,11 +36,9 @@ function addTask() {
     listContainer.appendChild(li);
 
 
-    // Create delete button
     const span = document.createElement("span");
 
 
-    // Add X symbol
     span.textContent = "×";
 
 
