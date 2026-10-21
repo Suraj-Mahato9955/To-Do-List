@@ -42,7 +42,6 @@ function addTask() {
     span.textContent = "×";
 
 
-    // Add delete button inside task
     li.appendChild(span);
 
 
