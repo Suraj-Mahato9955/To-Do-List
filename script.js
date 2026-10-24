@@ -78,7 +78,6 @@ listContainer.addEventListener("click", function (event) {
         event.target.classList.toggle("checked");
 
 
-        // Save updated task
         saveData();
     }
 
