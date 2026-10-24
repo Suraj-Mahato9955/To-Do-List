@@ -89,7 +89,6 @@ listContainer.addEventListener("click", function (event) {
         event.target.parentElement.remove();
 
 
-        // Save updated list
         saveData();
     }
 
