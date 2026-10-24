@@ -48,7 +48,6 @@ function addTask() {
     inputBox.value = "";
 
 
-    // Save tasks
     saveData();
 }
 
