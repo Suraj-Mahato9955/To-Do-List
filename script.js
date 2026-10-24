@@ -45,7 +45,6 @@ function addTask() {
     li.appendChild(span);
 
 
-    // Clear input
     inputBox.value = "";
 
 
