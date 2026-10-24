@@ -84,7 +84,6 @@ listContainer.addEventListener("click", function (event) {
 
     else if (event.target.tagName === "SPAN") {
 
-        // Delete task
         event.target.parentElement.remove();
 
 
