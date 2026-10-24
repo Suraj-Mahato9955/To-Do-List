@@ -74,7 +74,6 @@ listContainer.addEventListener("click", function (event) {
 
     if (event.target.tagName === "LI") {
 
-        // Complete / Uncomplete
         event.target.classList.toggle("checked");
 
 
