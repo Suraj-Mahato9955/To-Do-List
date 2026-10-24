@@ -82,7 +82,6 @@ listContainer.addEventListener("click", function (event) {
     }
 
 
-    // If user clicks delete button
     else if (event.target.tagName === "SPAN") {
 
         // Delete task
