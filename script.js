@@ -72,7 +72,6 @@ addBtn.addEventListener("click", function () {
 listContainer.addEventListener("click", function (event) {
 
 
-    // If user clicks the task
     if (event.target.tagName === "LI") {
 
         // Complete / Uncomplete
