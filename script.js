@@ -1,6 +1,5 @@
 
 // GET HTML ELEMENTS
-// =========================
 
 const inputBox = document.getElementById("input-box");
 
