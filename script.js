@@ -7,9 +7,6 @@ const addBtn = document.getElementById("add-btn");
 const listContainer = document.getElementById("list-container");
 
 
-
-// ADD TASK
-
 function addTask() {
 
     const taskText = inputBox.value.trim();
