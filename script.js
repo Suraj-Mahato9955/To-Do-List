@@ -51,7 +51,6 @@ addBtn.addEventListener("click", function () {
 });
 
 
-// =========================
 // TASK CLICK
 // =========================
 
