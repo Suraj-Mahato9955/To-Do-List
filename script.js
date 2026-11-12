@@ -44,7 +44,6 @@ function addTask() {
     saveData();
 }
 
-// ADD BUTTON CLICK
 // =========================
 
 addBtn.addEventListener("click", function () {
